@@ -5,7 +5,7 @@ string reverseWords(string s)
     vector<string> words;
     vector<string> spaces;
     int l = s.length();
-    cout << l << "\n";
+    //cout << l << "\n";
     string temp="";
     string sc="";
     int fl=0;
